@@ -1,4 +1,4 @@
-[DEMO LINK](https://Paavlo.github.io/KatVR/)
+[DEMO LINK](https://Paavlo.github.io/KatVR_LP/)
 | [DESIGN](https://www.figma.com/file/hhtGde1r4hMr5wghrKm6vl/KatVR)
 
 The landing page for VR Product.
